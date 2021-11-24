@@ -26,9 +26,9 @@ Finding:
 
 Actionable Insights:
 
-    •	We need Strategy to increase male user engagement.
+    • We need Strategy to increase male user engagement.
 
-    •	We have to design some programs & Services for female to keep female user engaged.
+    • We have to design some programs & Services for female to keep female user engaged.
 
-    •	Most user base is younger so we need to introduce or develop new feature and also improve UI as young people are more tech savvy.
+    • Most user base is younger so we need to introduce or develop new feature and also improve UI as young people are more tech savvy.
 
